@@ -1,20 +1,35 @@
 body{
-  background-color: #DEEDF0;
+  margin: 0;
+}
+
+.info{
+  background-color: rgb(62, 69, 87);
+  color: azure;
+}
+
+h1{
+  color: rgb(217, 187, 21);
+  font-family: Brush Script MT,cursive;
+}
+
+.padding{
+  padding: 1rem;
 }
 
 hr{
   border-style: dotted none none;
-  border-color: #d9d9d6;
+  border-color: #9DACB2;
   border-width: 7px;
   width: 5%;
 }
 
-h1{
-  color: #B2B8A3;
-  font-family: Brush Script MT,cursive;
+
+h2{
+  color: rgb(182, 157, 21);
+  font-family: Copperplate,fantasy;
 }
 
-h3{
-  color: #B2B8A3;
-  font-family: Copperplate,fantasy;
+
+.head{
+  font-size: 1.3rem;
 }
